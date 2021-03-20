@@ -6,7 +6,7 @@
 The HUD I use. It's the default HUD with a few quality-of-life changes, and uses [CriticalFlaw's TF2-HUD-Fix](https://github.com/CriticalFlaw/TF2-HUD-Fix.git) as a base.
 
 ### `./defenseforttwice.png`
-Source for the custom wordmark seen on the title screen in [TheThunderHUD](#`./TheThunderHUD/`). I made it using [GIMP](https://www.gimp.org/) by downloading the font and adding a long shadow, among other effects.
+Source for the custom wordmark seen on the title screen in [TheThunderHUD](#thethunderhud). I made it using [GIMP](https://www.gimp.org/) by downloading the font and adding a long shadow, among other effects.
 
 <p align="center"><img src="./defenseforttwice.png" alt="Team Defense Fort Twice"></p>
 
@@ -30,7 +30,7 @@ Controls and binds, with comments explaining what they do.
 #### `./cfg/tr_walkway_rc2.cfg`
 A quick fix for the bots on the training map [tr_walkway](https://gamebanana.com/maps/107794).
 #### `./cfg/user/`
-mastercomfig configuration, mostly containing empty files (with the exception of [`modules.cfg`](#`./cfg/user/modules.cfg`) and [`autoexec.cfg`](#`./cfg/user/autoexec.cfg`)) so that the game doesn't display file not found errors.
+mastercomfig configuration, mostly containing empty files (with the exception of [`modules.cfg`](#cfgusermodulescfg) and [`autoexec.cfg`](#cfguserautoexeccfg)) so that the game doesn't display any file not found errors.
 ##### `./cfg/user/modules.cfg`
 [mastercomfig modules](https://docs.mastercomfig.com/en/latest/customization/modules/), used to override mastercomfig preset settings. Most have been set pretty low due to strange bottlenecks with my PC.
 ##### `./cfg/user/autoexec.cfg`
@@ -38,7 +38,7 @@ Contains a few settings that otherwise get reset on each game start (either by t
 
 ## External Content
 ### [mastercomfig](https://mastercomfig.com)
-mastercomfig is "A modern Team Fortress 2 performance and customization config" and provides many optimizations to significantly boost the performance of the game. Settings used to configure it can be found in [`./cfg/user/`](#`./cfg/user/`).
+mastercomfig is "A modern Team Fortress 2 performance and customization config" and provides many optimizations to significantly boost the performance of the game. Settings used to configure it can be found in [`./cfg/user/`](#cfguser).
 
 I use the `medium-low` preset with the following addons:
 - `null-cancelling-movement-addon`
