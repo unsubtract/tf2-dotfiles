@@ -5,20 +5,15 @@
 ### `./TheThunderHUD/`
 The HUD I use. It's the default HUD with a few quality-of-life changes, and uses [CriticalFlaw's TF2-HUD-Fix](https://github.com/CriticalFlaw/TF2-HUD-Fix.git) as a base.
 
-### `./defenseforttwice.png`
+### `./img/defenseforttwice.png`
 Source for the custom wordmark seen on the title screen in [TheThunderHUD](#thethunderhud). I made it using [GIMP](https://www.gimp.org/) by downloading the font and adding a long shadow, among other effects.
 
-<p align="center"><img src="./defenseforttwice.png" alt="Team Defense Fort Twice"></p>
+<p align="center"><img src="./img/defenseforttwice.png" alt="Team Defense Fort Twice"></p>
 
 ### `./hitsound/`
 My hitsound of choice. It is the default [Quake III: Arena](https://en.wikipedia.org/wiki/Quake_III_Arena) hitsound, which I extracted from my own copy of [Quake Live](https://store.steampowered.com/app/282440/Quake_Live/) and uploaded to [my huds.tf page](https://huds.tf/site/s-Quake-Live-hitsound). I have it in a seperate VPK with a pre-generated soundcache, hence the sound being in its own subdirectory.
 
-You should use the following cvars with this hitsound:
-```
-tf_dingaling_pitchmaxdmg "70"
-tf_dingaling_pitchmindmg "113"
-tf_dingaling_volume "1"
-```
+The cVars used with the hitsound are in [`./cfg/user/autoexec.cfg`](#cfguserautoexeccfg).
 
 ### `./endofthelinemusic/`
 Source for [this mod I created](https://gamebanana.com/sounds/51743) which adds music from the [End of the Line community update](https://www.teamfortress.com/endoftheline/) to the list of tracks that will play when you start the game, alongside the rest of TF2's music.
@@ -30,11 +25,13 @@ Controls and binds, with comments explaining what they do.
 #### `./cfg/tr_walkway_rc2.cfg`
 A quick fix for the bots on the training map [tr_walkway](https://gamebanana.com/maps/107794).
 #### `./cfg/user/`
-mastercomfig configuration, mostly containing empty files (with the exception of [`modules.cfg`](#cfgusermodulescfg) and [`autoexec.cfg`](#cfguserautoexeccfg)) so that the game doesn't display any file not found errors.
+mastercomfig's location for most scripts. It is mostly class configs with different `hud_combattext_batching_window` values.
 ##### `./cfg/user/modules.cfg`
 [mastercomfig modules](https://docs.mastercomfig.com/en/latest/customization/modules/), used to override mastercomfig preset settings. Most have been set pretty low due to strange bottlenecks with my PC.
+##### `./cfg/user/modules_fancy.cfg`
+Modules that have been set to the maximum quality, which I use for screenshots and rendering demos.
 ##### `./cfg/user/autoexec.cfg`
-Contains a few settings that otherwise get reset on each game start (either by the game or by mastercomfig).
+Contains most of my settings not outlined in other files.
 
 ## External Content
 ### [mastercomfig](https://mastercomfig.com)
