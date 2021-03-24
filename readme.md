@@ -25,13 +25,13 @@ Controls and binds, with comments explaining what they do.
 #### `./cfg/tr_walkway_rc2.cfg`
 A quick fix for the bots on the training map [tr_walkway](https://gamebanana.com/maps/107794).
 #### `./cfg/user/`
-mastercomfig's location for most scripts. It is mostly class configs with different `hud_combattext_batching_window` values.
+mastercomfig's location for most scripts. It's mostly class configs with different class-specific cVar values and setups for binds.
 ##### `./cfg/user/modules.cfg`
 [mastercomfig modules](https://docs.mastercomfig.com/en/latest/customization/modules/), used to override mastercomfig preset settings. Most have been set pretty low due to strange bottlenecks with my PC.
 ##### `./cfg/user/modules_fancy.cfg`
 Modules that have been set to the maximum quality, which I use for screenshots and rendering demos.
 ##### `./cfg/user/autoexec.cfg`
-Contains most of my settings not outlined in other files.
+Contains most of my settings not outlined in other files, and bind aliases.
 
 ## External Content
 ### [mastercomfig](https://mastercomfig.com)
