@@ -2,7 +2,8 @@
 <p align="center">Here you will find various configuration files and custom content that I use while playing <a href="https://www.teamfortress.com/">Team Fortress 2</a>.</p>
 
 ## My Own Content
-### `./TheThunderHUD/`
+
+### `./thethunderhud/`
 The HUD I use. It's the default HUD with a few quality-of-life changes, and uses [CriticalFlaw's TF2-HUD-Fix](https://github.com/CriticalFlaw/TF2-HUD-Fix.git) as a base.
 
 ### `./img/defenseforttwice.png`
