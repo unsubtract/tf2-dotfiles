@@ -4,7 +4,7 @@
 ## My Own Content
 
 ### `./thethunderhud/`
-The HUD I use. It's the default HUD with a few quality-of-life changes, and uses [CriticalFlaw's TF2-HUD-Fix](https://github.com/CriticalFlaw/TF2-HUD-Fix.git) as a base.
+The HUD I use. It's the default HUD with a few quality-of-life changes, and uses [CriticalFlaw's TF2HUD.Fixes](git+https://github.com/CriticalFlaw/TF2HUD.Fixes.git) as a base.
 
 ### `./img/defenseforttwice.png`
 Source for the custom wordmark seen on the title screen in [TheThunderHUD](#thethunderhud). I made it using [GIMP](https://www.gimp.org/) by downloading the font and adding a long shadow, among other effects.
