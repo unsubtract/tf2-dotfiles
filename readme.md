@@ -38,13 +38,11 @@ Contains most of my settings not outlined in other files, and bind aliases.
 ### [mastercomfig](https://mastercomfig.com)
 mastercomfig is "A modern Team Fortress 2 performance and customization config" and provides many optimizations to significantly boost the performance of the game. Settings used to configure it can be found in [`./cfg/user/`](#cfguser).
 
-I use the `medium-low` preset with the following addons:
+I use the `none` preset with the following addons:
 - `null-cancelling-movement-addon`
 - `no-tutorial-addon`
 - `flat-mouse-addon`
 - `disable-pyroland-addon`
-
-The game also starts with the [recommended launch options](https://docs.mastercomfig.com/en/latest/customization/launch_options/).
 
 ### [Missing Killicons Pack](https://steamcommunity.com/sharedfiles/filedetails/?id=2156604959)
 A mod that adds some killfeed icons which are missing from the game and otherwise display the generic skull icon. This mod works in casual mode.
