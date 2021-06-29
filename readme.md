@@ -14,10 +14,7 @@ Source for the custom wordmark seen on the title screen in [TheThunderHUD](#thet
 ### `./hitsound/`
 My hitsound of choice. It is the default [Quake III: Arena](https://en.wikipedia.org/wiki/Quake_III_Arena) hitsound, which I extracted from my own copy of [Quake Live](https://store.steampowered.com/app/282440/Quake_Live/) and uploaded to [my huds.tf page](https://huds.tf/site/s-Quake-Live-hitsound). I have it in a seperate VPK with a pre-generated soundcache, hence the sound being in its own subdirectory.
 
-The cVars used with the hitsound are in [`./cfg/user/autoexec.cfg`](#cfguserautoexeccfg).
-
-### `./endofthelinemusic/`
-Source for [this mod I created](https://gamebanana.com/sounds/51743) which adds music from the [End of the Line community update](https://www.teamfortress.com/endoftheline/) to the list of tracks that will play when you start the game, alongside the rest of TF2's music.
+The ConVars used with the hitsound are in [`./cfg/user/autoexec.cfg`](#cfguserautoexeccfg).
 
 ### `./cfg/`
 Configuration files and settings that I use alongside [mastercomfig](#mastercomfig).
