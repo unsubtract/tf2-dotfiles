@@ -1,4 +1,4 @@
-<h1 align="center">unsubtract TF2 "dotfiles"</h1>
+<h1 align="center">unsubtract's TF2 "dotfiles"</h1>
 <p align="center">Here you will find various configuration files and custom content that I use while playing <a href="https://www.teamfortress.com/">Team Fortress 2</a>.</p>
 
 ## `/thethunderhud/`
