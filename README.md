@@ -1,8 +1,8 @@
 <h1 align="center">unsubtract's TF2 "dotfiles"</h1>
 <p align="center">Here you will find various configuration files and custom content that I use while playing <a href="https://www.teamfortress.com/">Team Fortress 2</a>.</p>
 
-## `/thethunderhud/`
-My HUD: A few modifications to the default HUD using [TF2HUD.Fixes](git+https://github.com/CriticalFlaw/TF2HUD.Fixes.git) as a base.
+## `/unsubtract_hud/`
+My HUD: Various modifications to the default HUD using [TF2HUD.Fixes](https://github.com/CriticalFlaw/TF2HUD.Fixes.git) as a base.
 
 ## `/img/defenseforttwice.png`
 team defense fort twice
