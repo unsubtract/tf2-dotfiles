@@ -12,7 +12,7 @@ team defense fort twice
 ## `/hitsound/`
 [Quake Live hitsound](https://huds.tf/site/s-Quake-Live-hitsound)
 
-The ConVars used with the hitsound are in `/cfg/user/autoexec.cfg`
+The ConVars used with the hitsound are in `/cfg/overrides/autoexec.cfg`
 
 ## `/cfg/`
 Self-explanatory config files 
@@ -24,4 +24,7 @@ Installed alongside [mastercomfig](https://mastercomfig.com/) `none` preset:
 - `disable-pyroland-addon`
 
 ## [Missing Killicons Pack](https://steamcommunity.com/sharedfiles/filedetails/?id=2156604959)
-A mod that adds killfeed icons which are missing from the game and otherwise display the generic skull icon.
+A mod that adds killfeed icons which are missing from the game and otherwise display a generic skull icon.
+
+## [Ultimate TF2 Visual Fix Pack](https://github.com/agrastiOs/Ultimate-TF2-Visual-Fix-Pack)
+Fixes various bugs with models, textures and particles (does not work in Casual mode).
