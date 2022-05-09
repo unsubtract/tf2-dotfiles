@@ -12,7 +12,7 @@ team defense fort twice
 ## `/hitsound/`
 [Quake Live hitsound](https://huds.tf/site/s-Quake-Live-hitsound)
 
-The ConVars used with the hitsound are in `/cfg/overrides/autoexec.cfg`
+The ConVars used with the hitsound are in `/cfg/hitsound.cfg`
 
 ## `/cfg/`
 Self-explanatory config files 
