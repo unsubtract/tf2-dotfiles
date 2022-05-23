@@ -18,7 +18,6 @@ The ConVars used with the hitsound are in `/cfg/hitsound.cfg`
 Self-explanatory config files 
 
 Installed alongside [mastercomfig](https://mastercomfig.com/) `none` preset:
-- `null-canceling-movement-addon`
 - `no-tutorial-addon`
 - `flat-mouse-addon`
 - `disable-pyroland-addon`
