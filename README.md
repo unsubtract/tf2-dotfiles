@@ -22,8 +22,8 @@ Installed alongside [mastercomfig](https://mastercomfig.com/) `none` preset:
 - `flat-mouse-addon`
 - `disable-pyroland-addon`
 
-## [Missing Killicons Pack](https://steamcommunity.com/sharedfiles/filedetails/?id=2156604959)
-A mod that adds killfeed icons which are missing from the game and otherwise display a generic skull icon.
+## [Better Consistent and Missing Kill Icons](https://gamebanana.com/mods/406361)
+Its the Consistent Kill Icon pack but it adds ones missing from the base game (works in Casual mode).
 
 ## [Ultimate TF2 Visual Fix Pack](https://github.com/agrastiOs/Ultimate-TF2-Visual-Fix-Pack)
 Fixes various bugs with models, textures and particles (does not work in Casual mode).
