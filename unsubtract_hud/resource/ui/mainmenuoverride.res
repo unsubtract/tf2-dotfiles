@@ -13,7 +13,7 @@
 
 //		"bgcolor_override"	"0 0 0 240"
 
-		"update_url"	"https://store.steampowered.com/news/?filter=updates&appids=440"
+		"update_url"	"https://store.steampowered.com/news/app/440"
 		"blog_url"		"https://www.teamfortress.com/"
 
 		"button_x_offset"	"-285"
@@ -220,22 +220,6 @@
 		{
 			"image"		"../console/background_xmas2020_widescreen"
 		}
-	}
-
-	"TFLogoImage"
-	{
-		"ControlName"	"ImagePanel"
-		"fieldName"		"TFLogoImage"
-		"xpos"			"c-290"
-		"ypos"			"32"
-		"zpos"			"1"
-		"wide"			"256"
-		"tall"			"64"
-		"visible"		"1"
-		"enabled"		"1"
-		"image"			"../vgui/replay/thumbnails/defenseforttwice"
-		"scaleImage"	"1"
-		"mouseinputenabled"	"0"
 	}
 
 	"RankModelPanel"
@@ -1908,7 +1892,7 @@
 	{
 		"ControlName"	"CExImageButton"
 		"fieldName"		"CharacterSetupButton"
-		"xpos"			"c-288"
+		"xpos"			"c-295"
 		"ypos"			"rs1-18"
 		"wide"			"100"
 		"tall"			"26"
