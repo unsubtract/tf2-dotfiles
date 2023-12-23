@@ -24,9 +24,3 @@ Installed alongside [mastercomfig](https://mastercomfig.com/) `none` preset:
 
 ## [Better Consistent and Missing Kill Icons](https://gamebanana.com/mods/406361)
 Its the Consistent Kill Icon pack but it adds ones missing from the base game (works in Casual mode).
-
-## [Ultimate TF2 Visual Fix Pack](https://github.com/agrastiOs/Ultimate-TF2-Visual-Fix-Pack)
-Fixes various bugs with models, textures and particles (does not work in Casual mode).
-
-## [Fixed Viewmodels](https://gamebanana.com/mods/206440)
-Fixes spooky floating hands (does not work in Casual mode).
